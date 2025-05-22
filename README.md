@@ -9,5 +9,4 @@
 <br>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shuvokhan3&theme=radical)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=shuvokhan3&theme=javascript)](https://github.com/shuvokhan3)
