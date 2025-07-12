@@ -1,24 +1,16 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raisul-islam/raisul-islam/main/assets/banner.png" alt="Banner" width="100%">
-</p>
 
-<!-- Avatar and Name -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" style="border-radius:50%" alt="Raisul Islam Avatar"/>
-</p>
 
 <h1 align="center">Hi, I'm Raisul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <b>Web Developer | PHP (Laravel) | Bootstrap | C/C++ | DSA Enthusiast</b>
+  <b>Web Developer | PHP (Laravel) | Bootstrap | C/C++ | DSA </b>
 </p>
 
 ---
 
 ## 📝 About Me
 
-- 🌱 Currently learning **React** and **Node.js**
+- 🌱 Currently learning **React**
 - 💼 Open to freelance and remote opportunities
 - 🏆 Problem solver and lifelong learner
 - 💬 Ask me about web development, Laravel, or algorithms!
