@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Raisul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <b>Web Developer | PHP (Laravel) | Bootstrap | C/C++ | DSA </b>
+  <b>Web Developer | PHP (Laravel) | JS | Bootstrap | C/C++ | DSA </b>
 </p>
 
 ---
