@@ -18,11 +18,6 @@
 
 ---
 
-
-
-
-
-
 ## 🚀 Featured Projects
 
 - [Portfolio Website](https://your-portfolio-link.com) - My personal portfolio built with Laravel & Bootstrap
@@ -61,14 +56,10 @@
   <img src="https://streak-stats.demolab.com?user=raisul-islam&theme=radical" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisul-islam&layout=compact&theme=radical" alt="Top Languages"/>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=raisul-islam&theme=radical" alt="Trophies"/>
+
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=raisul-islam&theme=radical" alt="Contribution Graph"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=raisul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+
 
 ---
 
@@ -107,15 +98,6 @@
 
 ---
 
-## 💡 Fun Facts & Hobbies
-
-- 🧩 I love solving algorithmic problems and learning new technologies!
-- 🎸 I play guitar in my free time
-- 🌍 I enjoy traveling and exploring new cultures
-- 📷 Photography enthusiast
-
----
-
 ## 📊 Tech Stack Visualization
 
 <p align="center">
@@ -125,7 +107,7 @@
 ---
 
 <p align="center">
-  <b>Thank you for visiting my profile! ⭐️</b>
+  <b>Thank you for visiting my profile</b>
 </p>
 
 <!--
