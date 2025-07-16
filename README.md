@@ -54,7 +54,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raisul-islam&show_icons=true&theme=radical" alt="Raisul's GitHub stats"/>
   <img src="https://streak-stats.demolab.com?user=raisul-islam&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisul-islam&layout=compact&theme=radical" alt="Top Languages"/>
+
   <br/>
 
 </p>
