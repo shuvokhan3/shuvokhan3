@@ -26,46 +26,11 @@
 
 ---
 
-
-
-
-
-## 🛠️ Tech Stack
-
-**Languages:**
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-**Frameworks & Libraries:**
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 📈 GitHub Stats
+## 📊 Tech Stack 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raisul-islam&show_icons=true&theme=radical" alt="Raisul's GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=raisul-islam&theme=radical" alt="GitHub Streak"/>
-
-  <br/>
-
+  <img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,js,cpp,c,git,linux,vscode" alt="Tech Stack"/>
 </p>
-
-
-
-
-
-
-
-
 
 
 
@@ -105,23 +70,6 @@
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-24292F?style=flat&logo=github&logoColor=white" alt="Portfolio"/></a>
 </p>
 
----
-
-## 📊 Tech Stack Visualization
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,js,cpp,c,git,linux,vscode" alt="Tech Stack"/>
-</p>
-
----
-
-<p align="center">
-  <b>Thank you for visiting my profile</b>
-</p>
-
-<!--
-Replace placeholder links and images with your actual data for best results.
--->
 
 
 
