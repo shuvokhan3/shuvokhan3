@@ -49,7 +49,7 @@
 
 - Coursera: [Programming with JavaScript](https://coursera.org/verify/your-cert-id)
 - HackerRank: [Problem Solving (Basic)](https://www.hackerrank.com/certificates/your-cert-id)
-- LeetCode: 200+ problems solved
+- Codeforces: 160+ problems solved
 
 ---
 
