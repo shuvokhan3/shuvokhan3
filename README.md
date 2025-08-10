@@ -47,8 +47,7 @@
 
 ## 🏅 Certifications & Achievements
 
-- Coursera: [Programming with JavaScript](https://coursera.org/verify/your-cert-id)
-- HackerRank: [Problem Solving (Basic)](https://www.hackerrank.com/certificates/your-cert-id)
+
 - Codeforces: 160+ problems solved
 
 ---
