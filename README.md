@@ -16,13 +16,7 @@
 - 💬 Ask me about web development, Laravel, or algorithms!
 - 📫 How to reach me: see below 👇
 
----
 
-## 🚀 Featured Projects
-
-- [Portfolio Website](https://your-portfolio-link.com) - My personal portfolio built with Laravel & Bootstrap
-- [Blog Platform](https://github.com/raisul-islam/blog-platform) - A full-featured blog with authentication and CRUD
-- [DSA Visualizer](https://github.com/raisul-islam/dsa-visualizer) - Visualize data structures and algorithms in C++
 
 ---
 
